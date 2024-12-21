@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "823842680504",
+    "firebase_url": "https://kuetapp-f0a4f-default-rtdb.firebaseio.com",
+    "project_id": "kuetapp-f0a4f",
+    "storage_bucket": "kuetapp-f0a4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823842680504:android:07246d1aa1498b2f32ce4d",
+        "android_client_info": {
+          "package_name": "com.example.adminkuetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhPb211S3aKoJImdZJmJikMCSZUn_PD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823842680504:android:f2a32f312d608fa332ce4d",
+        "android_client_info": {
+          "package_name": "com.example.kuetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhPb211S3aKoJImdZJmJikMCSZUn_PD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

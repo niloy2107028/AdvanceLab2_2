@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="uploadNotice" type="id" />
+    <item name="selectedFileTextView" type="id" />
+    <item name="noticeTitle" type="id" />
+    <item name="uploadNoticeButton" type="id" />
+</resources>

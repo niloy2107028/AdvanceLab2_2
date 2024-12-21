@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and related colors -->
+    <color name="colorPrimary">#00a651</color>
+    <color name="colorPrimaryDark">#00a651</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Text colors -->
+    <color name="textColor">#3f3b3b</color>
+    <color name="titleColor">#1b272c</color>
+
+    <!-- Additional UI-related colors -->
+    <color name="grey">#828080</color>
+    <color name="grey1">#4f4f4f</color>
+    <color name="grey2">#d6d6d6</color>
+
+    <!-- Define white explicitly -->
+    <color name="white">#ffffff</color>
+    <color name="darkcolor">#313131</color>
+
+    <color name="deepPurple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green1">#00bfa5</color>
+    <color name="pink">#D242EC</color>
+    <color name="red2">#F73E7C</color>
+    <color name="lightGray">#c1c1c1</color>
+
+
+    <color name="blue">#2874a6  </color>
+    <color name="kuetgreen">#00a651</color>
+</resources>

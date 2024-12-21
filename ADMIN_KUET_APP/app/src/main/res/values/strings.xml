@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ADMIN KUET APP</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="update">Update</string>
+    <string name="teacher_image" />
+    <string name="no_data_found">No Data Found</string>
+    <string name="civil">CIVIL</string>
+    <string name="other_department">Other Department</string>
+    <string name="todo">TODO</string>
+</resources>

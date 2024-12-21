@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.profile.ProfileFragment"
+>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        >
+
+        <!-- Student Avatar Section -->
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/studentImage"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="24dp"
+            android:contentDescription="@string/student_image"
+            android:src="@drawable/avatarprofile"
+            android:visibility="visible" />
+
+        <!-- Name Input Section -->
+        <TextView
+            android:id="@+id/studentName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/input_field_outline"
+            android:padding="16dp"
+            android:text="Name"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size" />
+
+        <TextView
+            android:id="@+id/studentBatch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/input_field_outline"
+            android:padding="16dp"
+            android:text="Batch"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size" />
+
+        <TextView
+            android:id="@+id/studentDepartment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/input_field_outline"
+            android:padding="16dp"
+            android:text="Department"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size" />
+
+        <TextView
+            android:id="@+id/studentRoll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/input_field_outline"
+            android:padding="16dp"
+            android:text="Roll"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size" />
+
+
+        <TextView
+            android:id="@+id/studentEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/input_field_outline"
+            android:padding="16dp"
+            android:text="Email"
+            android:textColor="@color/textColor"
+            android:textSize="@dimen/text_size" />
+
+        <!-- Logout Button -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/userLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="LOGOUT"
+            android:textSize="@dimen/text_size" />
+    </LinearLayout>
+</FrameLayout>

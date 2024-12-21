@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_news"
+        android:title="KUET News" />
+
+    <item
+        android:id="@+id/navigation_calender"
+        android:icon="@drawable/ic_calander"
+        android:title="KUET Calender" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_video"
+        android:title="Video Lectures" />
+
+    <item
+        android:id="@+id/navigation_ebook"
+        android:icon="@drawable/ic_ebook"
+        android:title="Ebooks" />
+
+    <item
+        android:id="@+id/navigation_website"
+        android:icon="@drawable/ic_website"
+        android:title="Website" />
+
+    <item
+        android:id="@+id/navigation_transport"
+        android:icon="@drawable/ic_trasnport"
+        android:title="KUET Transport" />
+
+    <item
+        android:id="@+id/navigation_theme"
+        android:icon="@drawable/ic_theme"
+        android:title="Themes" />
+
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_about"
+        android:title="About" />
+
+    <item
+        android:id="@+id/navigation_developer"
+        android:icon="@drawable/ic_developer"
+        android:title="Developer" />
+
+    <item
+        android:id="@+id/navigation_version"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="Version - 1.0" />
+
+</menu>
